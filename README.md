@@ -1,0 +1,2 @@
+# BetterDiscord
+Resources for BD
