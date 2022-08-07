@@ -928,7 +928,7 @@ button[aria-label="Send a gift"] {
   font-weight: 600;
   font-family: "Lato";
   color: var(--darkplus-sec);
-}
+/* }
 .wordmark-2u86JB > svg {
   display: none;
 }
@@ -939,7 +939,7 @@ button[aria-label="Send a gift"] {
   .channelName-3KPsGw,
 .subtitle-3PyFgf {
   color: var(--darkplus-sec);
-}
+} */
 
 .navButtonActive-1EqC5l {
   background-color: var(--darkplus-bg);
