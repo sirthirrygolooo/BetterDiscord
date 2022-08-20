@@ -1,2 +1,2 @@
 # BetterDiscord
-Resources for BD
+Resources for my BD themes
